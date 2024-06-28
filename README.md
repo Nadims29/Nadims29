@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Nadims29
 - 👀 I’m interested in everycoding in the life as  creating never ends in the world.
 - 🌱 I’m currently learning phython for game creation 
-- 💞️ I’m looking to collaborate on phython and front end web developement
+- 💞️ I’m looking to collaborate on phython and frontend web developement with APP Developement
 - 📫 How to reach me you can mail me at shaikhnadim295@gmail.com
 
 <!---
